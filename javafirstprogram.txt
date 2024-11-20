@@ -1,11 +1,17 @@
+import javax.swing.JOptionPane;
 publice class javafirstprogram
 {
 	publice static void main(String[] args)
 	{
-		System.out.print("StudentId:2413110236"+
+		System.out.printIn("StudentId:2413110236"+
 			"\nstudentName:Rathapong kerdmongkol"+
 			"\nTopic:gitHub"+
-			"\ndate:11/20/2024"+
-			"\nDialogBox");
+			"\ndate:11/20/2024"
+			);
+		JOptionPane.showMessageDialog(null,"StudentId:2413110236"+
+			"\nstudentName:Rathapong kerdmongkol"+
+			"\nTopic:gitHub"+
+			"\ndate:11/20/2024"
+			);
 	}
 }
