@@ -1,0 +1,11 @@
+publice class javafirstprogram
+{
+	publice static void main(String[] args)
+	{
+		System.out.print("StudentId:2413110236"+
+			"\nstudentName:Rathapong kerdmongkol"+
+			"\nTopic:gitHub"+
+			"\ndate:11/20/2024"+
+			"\nDialogBox");
+	}
+}
