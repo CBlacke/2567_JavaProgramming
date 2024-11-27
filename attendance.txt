@@ -1,4 +1,4 @@
 StudentId:2413110236
 studentName:Rathapong kerdmongkol
-Topic:gitHub
-date:11/20/2024
+Topic:data
+date:11/27/2024
