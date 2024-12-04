@@ -20,7 +20,7 @@ public class JavaEx_01 {
 	String frmtotalVAt = String.format("%,.2f", totalVAt);
 	System.out.println("Output using String.format");
 	System.out.println("Add Vat 7% is "+frmtotalVAt+" baht.");
-	System.out.printf("Add VAT 7%% is %,.2f")
+	System.out.printf("Add VAT 7%% is %,.2f");
 
 	
 	input.close();
