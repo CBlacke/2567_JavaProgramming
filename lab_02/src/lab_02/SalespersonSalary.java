@@ -16,7 +16,7 @@ public class SalespersonSalary {
 		{
 			System.out.print("Enter gross sales for the saleperson(or -1 to end): ");
 			sale = input.nextInt();
-			if (sale==-1)
+			if (sale==SENTINEL)
 			{
 				break;
 			}
