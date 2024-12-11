@@ -7,7 +7,7 @@ public class SecurePasswordCheker {
 		
 		while(true)
 		{
-			System.out.print("Enter your password(type 'exil' to quit)");
+			System.out.print("Enter your password(type 'exil' to quit): ");
 			String password = scan.nextLine();
 			if(password.equalsIgnoreCase("exil"))
 			{
