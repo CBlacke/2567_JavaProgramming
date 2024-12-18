@@ -21,8 +21,10 @@ public class lab303 {
 				space++;
 			}
 		}
-		//ยังไม่เสร็จ ยังหาวิธีแก้อยู่ครับ
-			word = space+1;
+		String text[] = sentence.split(" ");
+        for (int i=0;i<text.length;i++){
+            word++;
+        }
 		System.out.println("This sentence has "+ space + " spacebar.");
 		System.out.println("This sentence has "+ word + " word.");
 	}

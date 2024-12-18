@@ -1,4 +1,4 @@
 StudentId:2413110236
 studentName:Rathapong kerdmongkol
-Topic:String Method
-date:12/04/2024
+Topic:Method
+date:12/18/2024
