@@ -1,4 +1,4 @@
 StudentId:2413110236
 studentName:Rathapong kerdmongkol
-Topic:Method
-date:12/18/2024
+Topic:Array and Array Method
+date:12/25/2024
