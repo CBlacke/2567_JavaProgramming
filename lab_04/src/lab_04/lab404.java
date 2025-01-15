@@ -54,7 +54,6 @@ Scanner input = new Scanner(System.in);
 			System.out.println("not enroll in courses for Year 1");
 		}
 	}
-	// ยังไม่เสร็จครับ
 
 
 }
