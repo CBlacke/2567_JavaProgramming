@@ -1,6 +1,6 @@
 package lab_06;
 
-public class Loan_Calculater {
+public class LoanCalculater {
 
 	private String productName;
 	private double price;

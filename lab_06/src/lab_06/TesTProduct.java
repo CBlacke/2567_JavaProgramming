@@ -1,10 +1,10 @@
 package lab_06;
 import java.util.*;
-public class Vat_testProduct {
+public class TesTProduct {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		VAT product = new VAT();
+		Product product = new Product();
 		
 		System.out.print("Enter product name : ");
 		String ProductName = scan.nextLine();

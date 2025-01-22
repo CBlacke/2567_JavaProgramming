@@ -1,9 +1,9 @@
 package lab_06;
 
-public class Loan_test {
+public class TestLoanCalculater {
 
 	public static void main(String[] args) {
-		Loan_Calculater loan = new Loan_Calculater();
+		LoanCalculater loan = new LoanCalculater();
 		
 		loan.setLoanDetails("Laptop", 50000, 5, 2);
 		

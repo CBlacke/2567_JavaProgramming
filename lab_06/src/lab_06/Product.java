@@ -1,6 +1,6 @@
 package lab_06;
 
-public class VAT {
+public class Product {
 
 	private String name;
 	private double price;
