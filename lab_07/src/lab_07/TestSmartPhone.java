@@ -42,7 +42,7 @@ public class TestSmartPhone {
 		// แสดงรายละเอียดสมาร์ทโฟนหลงัการต้งัค่าต่างๆ
 		System.out.println("\nข้อมูลสมาร์ทโฟนสุดท้าย:");
 		phone.printDetails();
-
+// again
 	}
 
 }
