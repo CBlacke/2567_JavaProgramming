@@ -19,7 +19,7 @@ public class Employee {
 		}
 		if(choose.equals("search")) {
 			System.out.print("\nEnter department:");
-			String dept = input.next();
+			String dept = input.next().toLowerCase();
 			objFile.setDept(dept);
 			objFile.searchData();
 		}
